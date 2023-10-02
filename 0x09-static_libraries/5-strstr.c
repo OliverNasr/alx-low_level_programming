@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  *  * _strstr - Entry point
  *   * @haystack: input
@@ -24,4 +24,3 @@ char *_strstr(char *haystack, char *needle)
 
 			return (0);
 }
-
